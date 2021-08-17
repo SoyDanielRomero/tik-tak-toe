@@ -16,7 +16,9 @@ To get started with this project, please:
 
 1. Responsive support
 2. Brand styling
-3. Multiplayer Online Gaming
+3. I would like to get players playing with a room score history. I plan to do this asking a name for each player, creating a room with a random name and store its score.
+4. I would like to prevent players to set a button already played. Furthermore, I plan to do this with a ternary operator to set a button property to disabled if it has been filled.
+5. Multiplayer Online Gaming
 
 ### License information: 👨‍⚖️
 
